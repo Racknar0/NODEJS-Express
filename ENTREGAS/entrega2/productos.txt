@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Coca Cola",
+    "precio": "$1",
+    "color": "Negro",
+    "id": 1
+  },
+  {
+    "nombre": "Maracuya",
+    "precio": "$1",
+    "color": "Amarilla",
+    "id": 2
+  },
+  {
+    "nombre": "Hulk Cola",
+    "precio": "$1",
+    "color": "Verde",
+    "id": 3
+  },
+  {
+    "nombre": "Hulk Cola",
+    "precio": "$1",
+    "color": "Verde",
+    "id": 4
+  }
+]
